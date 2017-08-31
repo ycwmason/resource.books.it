@@ -207,8 +207,8 @@ Mahout in Action (2012) [Download 下载](http://yimuhe.com/file-4167186.html)<b
 Clean Data [Download 下载](http://yimuhe.com/file-4167536.html)<br>
 Data Science for Business [Download 下载](http://yimuhe.com/file-4166610.html)<br>
 Exploratory Data Analysis with R [Download 下载](http://yimuhe.com/file-4166808.html)<br>
-Head First Data Analysis [Download 下载](http://yimuhe.com/file-4167176.html)<br>
 Haskell Data Analysis Cookbook [Download 下载](http://yimuhe.com/file-4170324.html)<br>
+Head First Data Analysis [Download 下载](http://yimuhe.com/file-4167176.html)<br>
 Lean Analytics-Use Data to Build a Better Startup Faster [Download 下载](http://yimuhe.com/file-4167219.html)<br>
 Natural Language Processing With Python [Download 下载](http://yimuhe.com/file-4166784.html)<br>
 Python for DataAnalysis [Download 下载](http://yimuhe.com/file-4166788.html)<br>
